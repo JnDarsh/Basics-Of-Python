@@ -1,51 +1,33 @@
-# Basics-Of-Python
-Experiment Number 1- Basics Of Python
+# 🐍 Basics of Python
+# 📌 Title
+Basics of Python
 
-#🐍 Python Basics
-This repository contains basic Python programs for beginners.
-It is helpful for students who are starting to learn Python programming.
+# 🎯 Aim
+To study basics of python instructions.
 
-#📌 What is Python?
+# 🛠️ Tools Required
+Code Editor / IDE such as:
+VS Code
+PyCharm
+IDLE (Python default editor)
+Operating System: Windows / Linux / macOS
 
-Python is a high-level, easy-to-learn programming language used for:
-Web development
-Data science
-Artificial Intelligence
-Automation
-Software development
+# 📖 Theory
+Python is a high-level, interpreted, and object-oriented programming language developed by Guido van Rossum. It is widely used due to its simple syntax and readability, which makes it ideal for beginners.
+Python does not require compilation and executes programs line by line, which helps in easy debugging. It supports multiple programming paradigms such as procedural, object-oriented, and functional programming.
 
-#🛠️ Requirements
-Any code editor (VS Code, PyCharm, or IDLE)
+In this project, the following basic Python concepts are covered:
+Variables and data types
+Input and output functions
+Arithmetic operators
+Conditional statements
 
-#📘 Topics Covered
-Input and Output
-Variables and Data Types
-Arithmetic Operations
-Simple Programs:
-.Sum and Average of numbers
-.Area of Circle
-.Area and Perimeter of Rectangle
-.Simple Calculator
+Simple mathematical programs such as:
+Sum and average of numbers
+Area and perimeter of geometric shapes
+Simple calculator
 
-#🧑‍💻 Sample Code
-Simple addition program
-a = int(input("Enter first number: "))
-b = int(input("Enter second number: "))
-print("Sum =", a + b)
+These programs help learners understand how Python works and how logic is applied in programming.
 
-#▶️ How to Run the Program
-Clone the repository
-git clone https://github.com/your-username/python-basics.git
-Open the folder
-Run the file using: python filename.py
-
-#🎯 Who Can Use This?
-Beginners
-School students
-First-time Python learners
-
-#🤝 Contributing
-Feel free to fork this repository and add more beginner-friendly programs.
-
-#📄 License
-This project is open-source and free to use for learning.
+# ✅ Conclusion
+Python is an easy and powerful programming language suitable for beginners. Learning the basics of Python helps in building a strong foundation for advanced programming concepts. Through this project, basic syntax and logic building skills are developed, which are essential for further learning in areas like web development, data science, and artificial intelligence.
