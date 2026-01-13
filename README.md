@@ -9,7 +9,7 @@ To study basics of python instructions.
 Code Editor / IDE such as:
 VS Code
 PyCharm
-IDLE (Python default editor)
+IDLE 
 Operating System: Windows / Linux / macOS
 
 # 📖 Theory
